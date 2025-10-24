@@ -20,9 +20,9 @@ The data for this project is sourced from the Kaggle dataset:
 
 ## Tools & Technologies
 
-### 1. Database: SQL Server
-### 2. Language: SQL
-### 3. Data Source: Netflix Movies & TV Shows Dataset (Kaggle)
+- **1. Database: SQL Server**
+- **2. Language: SQL**
+- **3. Data Source: Netflix Movies & TV Shows Dataset (Kaggle)**
 
 ## Schema
 
